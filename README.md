@@ -1,1 +1,1 @@
-# react-koa-serverless-boilerplate
+# react-graphql-koa-serverless-boilerplate
